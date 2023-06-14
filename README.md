@@ -1,7 +1,7 @@
 # DEPOT TEST-GR1250-A13
 Ce depot est un test dans le cadre du cours A13
 
-<img src="./docs/images/logo.jng" alt="logo de l'institution" width="100px">
+<img src="./docs/images/logo.png" alt="logo de l'institution" width="100px">
 
 ## GitHub
 1. intialiser un depot
