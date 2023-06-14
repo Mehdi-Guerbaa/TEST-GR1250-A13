@@ -1,7 +1,7 @@
 # DEPOT TEST-GR1250-A13
 Ce depot est un test dans le cadre du cours A13
 
-<img src="image_logo.jng" alt="logo de l'institution" width="100px">
+<img src="./docs/images/logo.jng" alt="logo de l'institution" width="100px">
 
 ## GitHub
 1. intialiser un depot
@@ -18,7 +18,6 @@ Ce depot est un test dans le cadre du cours A13
 12. push
 13. utiliser github Desktop
 14. configurer IDE Intelliji
-15. ...
 
 ## Project
 1. creer un projet : SPRINT
